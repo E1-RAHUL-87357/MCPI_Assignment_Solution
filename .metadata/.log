@@ -1,0 +1,39 @@
+!SESSION 2024-10-02 17:40:46.800 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-02 17:41:24.104
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-02 17:41:24.105
+!MESSAGE Log4j2 initialized with config file /home/rahul/Desktop/Rahul/MCPI_Assignment/MCPI_Assignment_Solution/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-02 17:41:30.450
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-10-02 17:43:14.517
+!MESSAGE Indexed 'Assignment3_Day11' (3 sources, 53 headers) in 3.7 sec: 1,950 declarations; 2,836 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-10-02 17:59:45.828
+!MESSAGE Indexed 'Day11_Assignment03' (9 sources, 68 headers) in 2.32 sec: 3,505 declarations; 5,400 references; 3 unresolved inclusions; 36 syntax errors; 755 unresolved names (7.8%)
+!SESSION 2024-10-02 18:06:14.801 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-02 18:06:31.851
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-02 18:06:31.853
+!MESSAGE Log4j2 initialized with config file /home/rahul/Desktop/Rahul/MCPI_Assignment/MCPI_Assignment_Solution/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-02 18:06:43.230
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-10-02 18:07:25.559
+!MESSAGE Indexed 'Assignment3_Day11' (10 sources, 79 headers) in 3.96 sec: 4,847 declarations; 8,996 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.014%)
