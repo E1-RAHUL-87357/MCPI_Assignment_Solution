@@ -9,6 +9,13 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/rahul/Desktop/Rahul/desd2024/mcpi/MCPI/mcpi/day13/systick"/>
+			<item value="/home/rahul/Desktop/Rahul/desd2024/mcpi/MCPI/mcpi/day13/adc"/>
+			<item value="/home/rahul/Desktop/Rahul/MCPI_Assignment/MCPI_Assignment_Solution/Assignment_Day8"/>
+			<item value="/home/rahul/Downloads/Practice"/>
+			<item value="/home/rahul/Desktop/Rahul/desd2024/mcpi/MCPI/mcpi/day12/pwm"/>
+			<item value="/home/rahul/Desktop/Rahul/desd2024/mcpi/MCPI/mcpi/day13/dac"/>
+			<item value="/home/rahul/Desktop/Rahul/MCPI_Assignment/MCPI_Assignment_Solution/Assignment1_Day11"/>
 			<item value="/home/rahul/Desktop/Rahul/MCPI_Assignment/MCPI_Assignment_Solution/Assignment3_Day11"/>
 			<item value="/home/rahul/Downloads/Day11_Assignment03"/>
 		</list>

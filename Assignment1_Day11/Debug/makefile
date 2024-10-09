@@ -59,8 +59,8 @@ all: main-build
 main-build: Assignment1_Day11.elf secondary-outputs
 
 # Tool invocations
-Assignment1_Day11.elf Assignment1_Day11.map: $(OBJS) $(USER_OBJS) /home/rahul/STM32CubeIDE/workspace_1.16.0/Assignment_Day11/STM32G473QETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "Assignment1_Day11.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/home/rahul/STM32CubeIDE/workspace_1.16.0/Assignment_Day11/STM32G473QETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Assignment1_Day11.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Assignment1_Day11.elf Assignment1_Day11.map: $(OBJS) $(USER_OBJS) /home/rahul/Desktop/Rahul/MCPI_Assignment/MCPI_Assignment_Solution/Assignment1_Day11/STM32G473QETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "Assignment1_Day11.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/home/rahul/Desktop/Rahul/MCPI_Assignment/MCPI_Assignment_Solution/Assignment1_Day11/STM32G473QETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Assignment1_Day11.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

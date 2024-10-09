@@ -41,6 +41,8 @@ int main(void) {
 		sprintf(str, "%02d-%02d-20%02d %02d:%02d:%02d\r\n",
 				dt.Date, dt.Month, dt.Year,
 				tm.Hour, tm.Minute, tm.Second);
+				
+		
 		UartPuts(str);
 		DelayMs(1000);
 	}

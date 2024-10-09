@@ -1,0 +1,10 @@
+10:13:40 **** Incremental Build of configuration Debug for project MCPI_E1_87357 ****
+make -j4 all 
+arm-none-eabi-size  MCPI_E1_87357.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1512	      4	   1572	   3088	    c10	MCPI_E1_87357.elf
+Finished building: default.size.stdout
+ 
+
+10:13:41 Build Finished. 0 errors, 0 warnings. (took 595ms)
+
